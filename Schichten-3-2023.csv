@@ -85,3 +85,11 @@ INNENAUSBAU;0
 -- fermacell Gipsfaserplatte (25 mm);28,8
 -- fermacell Gipsfaserplatte (28 mm);32,2
 -- fermacell Gipsfaserplatte (30 mm);34,5
+INSTALLATIONSEBENE;0
+-- Wandheizung (2 kg/m²);2
+-- Lattung Fichte 60cm (40/60 mm);1,88
+-- Lattung Fichte 60cm (30/50 mm);1,18
+-- Lattung Fichte 60cm (38/68 mm);2,02
+-- Lattung Fichte 60cm (24/60 mm);1,13
+-- Lattung Fichte 60cm (24/48 mm);0,9
+-- Lattung Fichte 60cm (18/48 mm);0,68
