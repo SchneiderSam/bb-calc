@@ -1,5 +1,5 @@
 Schicht;Gewicht
-Schicht wählen oder leer lassen;0
+Bitte wählen;0
 PV Anlage (15 kg/m²);15
 PV Anlage (20 kg/m²);20
 PV Anlage (25 kg/m²);25
@@ -13,3 +13,11 @@ PV Anlage (60 kg/m²);60
 PV Anlage (65 kg/m²);65
 Braas Taunuspfanne (4,3 kg * 10,7);46,01
 Braas Rubin 9V (4,0 kg * 10,2);40,8
+Sandwichelemnt (40 mm);9,4
+Sandwichelemnt (60 mm);9,4
+Sandwichelemnt (80 mm);9,4
+Sandwichelemnt (100 mm);9,4
+Sandwichelemnt (120 mm);9,4
+Sandwichelemnt (160 mm);9,4
+Trapezblech (0,50 mm);4,8
+Trapezblech (0,75 mm);7,02
