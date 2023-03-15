@@ -1,17 +1,16 @@
 Schicht;Gewicht
 Bitte wählen;0
 PV ANLAGEN;0
--- PV Anlage (15 kg/m²);15
--- PV Anlage (20 kg/m²);20
--- PV Anlage (25 kg/m²);25
--- PV Anlage (30 kg/m²);30
--- PV Anlage (35 kg/m²);35
--- PV Anlage (40 kg/m²);40
--- PV Anlage (45 kg/m²);45
--- PV Anlage (50 kg/m²);50
--- PV Anlage (55 kg/m²);55
--- PV Anlage (60 kg/m²);60
--- PV Anlage (65 kg/m²);65
+-- Dünnschichtmodule auf Glas (15 kg/m²);15
+-- Standardpolykristalline Module auf Aluminium (15 kg/m²);15
+-- BIPV-Module (integrierte PV) auf Glas (20 kg/m²);20
+-- BIPV-Module (integrierte PV) auf Aluminium (25 kg/m²);25
+-- Glas-Glas-Module (30 kg/m²);30
+-- BIPV-Module (integrierte PV) mit Ziegel- oder Schieferdach (35 kg/m²);35
+-- Aufständerung mit Hochleistungsmodulen (40 kg/m²);40
+-- PV-Systeme mit bifacialen Modulen (45 kg/m²);45
+-- PV-Systeme mit Monokristallin-Modulen (50 kg/m²);50
+-- Aufständerung mit solaren Tracker (60 kg/m²);60
 DACHZIEGEL;0
 -- Braas Taunuspfanne (4,3 kg * 10,7);46,01
 -- Braas Rubin 9V (4,0 kg * 10,2);40,8
